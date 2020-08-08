@@ -7,4 +7,4 @@
 ~~~
 > [NAME].html.erb
 >> This is rendered by Rails. And then transfer data to frount.
-> 
+>  
